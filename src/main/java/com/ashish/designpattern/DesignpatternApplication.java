@@ -8,7 +8,7 @@ public class DesignpatternApplication {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Design Pattern");
+		System.out.println("Design Patterns");
 		SpringApplication.run(DesignpatternApplication.class, args);
 	}
 
